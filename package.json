@@ -1,0 +1,15 @@
+{
+  "name": "roulette-sim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "roulette.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shrey Pandya (and Alex ig)",
+  "license": "MIT",
+  "dependencies": {
+    "fibonacci": "^1.6.7",
+    "nodeplotlib": "^0.7.3"
+  }
+}
